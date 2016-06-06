@@ -1,6 +1,9 @@
 # dulles-minictf-reversing1
 simple reversing problem
+
+
 writeup: 
+
 tl;dr the solution to the problem is is thisisthesolution1234 and the flag you get is minictf{gnisrever_ev0l_I}
 
 There are many ways to solve this, but the two I can think of off of the top of my head are:
